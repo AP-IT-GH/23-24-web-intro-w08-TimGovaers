@@ -24,6 +24,12 @@
  - Schrijf de response op die je ontvangt. Let daarbij specifiek op de waarde van "state".
 
 *Schrijf hier je response op.*
+{
+    "firstname": "Andrei",
+    "lastname": "Rezonov",
+    "email": "andrei.rezonov@student.ap.be",
+    "state": false
+}
 
 ### POST-request
 
@@ -39,3 +45,10 @@
 ```
  - Verzend de request.
  - Voer dezelfde URL uit als een POST-request. Schrijf de response op die je ontvangt. Let daarbij specifiek op de waarde van "state". De "state" zou op de nieuwe waarde moeten staan.
+
+ {
+    "firstname": "Andrei",
+    "lastname": "Rezonov",
+    "email": "andrei.rezonov@student.ap.be",
+    "state": true
+}

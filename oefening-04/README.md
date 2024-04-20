@@ -12,3 +12,10 @@
  - Zoek minstens 3 endpoints op van de API.
 
  *Schrijf hier de 3 endpoints op.*
+ Api: https://phishstats.info
+
+ endpoints: https://phishstats.info:2096/api/phishing?_where=(countrycode,=,US)
+            https://phishstats.info:2096/api/phishing?_where=(id,=,3296584)
+            https://phishstats.info:2096/api/phishing?_where=(ip,=,148.228.16.3)
+            
+

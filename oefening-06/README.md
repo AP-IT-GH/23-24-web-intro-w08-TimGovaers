@@ -18,5 +18,8 @@ Tijdens dit labo leer je
 
 1. Maak een nieuw verzoek naar de API.
 2. Gebruik de endpoint /users.
+https://auth0.com/docs/api/management/v2/users
 3. Voeg een Authorization header toe met een Bearer Token.
+Bearer <Your token>
+
 4. Voer het verzoek uit en bekijk de lijst met gebruikers.
